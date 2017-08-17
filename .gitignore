@@ -1,0 +1,4 @@
+tmp_img
+*.DS_Store
+/node_modules
+*.env
